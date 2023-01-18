@@ -4,6 +4,7 @@
 * React
 * TypeScript
 * SASS
+* MobX
 
 * TSLint
 * ESLint
